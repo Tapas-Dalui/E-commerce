@@ -149,7 +149,7 @@ body{
 /*start of home page*/
 
 #hero{
-    background-image: url("img/hero04.jpg");
+    background-image: url("img/hero04.png");
     height: 90vh;
     width: 100%;
     background-size:cover;
